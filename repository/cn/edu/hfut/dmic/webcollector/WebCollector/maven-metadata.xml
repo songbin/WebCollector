@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.edu.hfut.dmic.webcollector</groupId>
+  <artifactId>WebCollector</artifactId>
+  <versioning>
+    <release>2.40-beta</release>
+    <versions>
+      <version>2.40-beta</version>
+    </versions>
+    <lastUpdated>20170321095626</lastUpdated>
+  </versioning>
+</metadata>
