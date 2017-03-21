@@ -1,3 +1,25 @@
+#Maven引用
+
+	<dependencies>
+        <dependency>
+            <groupId>cn.edu.hfut.dmic.webcollector</groupId>
+            <artifactId>WebCollector</artifactId>
+            <version>2.40-beta</version>-
+        </dependency>
+
+    </dependencies>
+
+
+    <repositories>
+        <repository>
+            <id>web-controller</id>
+            <url>https://github.com/songbin/WebCollector/tree/master/repository/cn/edu/hfut/dmic/webcollector/WebCollector</url>
+        </repository>
+
+
+    </repositories>
+
+
 #WebCollector
 WebCollector is an open source web crawler framework based on Java.It provides
   some simple interfaces for crawling the Web,you can setup a
